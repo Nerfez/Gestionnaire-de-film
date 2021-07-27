@@ -1,0 +1,13 @@
+zefren	Ran	Un très beau film je recommande !	8  /  10
+
+zefren	Blade Runner	L'un des plus beau film de l'histoire !!	9  /  10
+
+toto	Blade Runner	L'un des pires films que j'ai vu ...	2  /  10
+
+toto	Maborosi	je n'ai pas du tout aimé le film !!!	1  /  10
+
+zefren	Maborosi	Un merveileux film !!	10  /  10
+
+toto	Blade Runner	ce film est une honte!!!	1  /  10
+
+zefren	Blade Runner	le meilleur film du monde !	9  /  10
